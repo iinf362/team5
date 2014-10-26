@@ -92,6 +92,10 @@ h3{
 	padding-bottom: 2em;
 	padding-top: 2em;
 }
+.title-sub{
+	color: #fff;
+	float: right;
+}
 
 /**Navigation**/
 .header-nav{
