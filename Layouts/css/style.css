@@ -17,7 +17,7 @@ p {
 	text-rendering: optimizeLegibility;
  }
 .main-content p{
-
+    text-align: justify;
 	text-indent: 1em;
 }
 
@@ -44,7 +44,7 @@ h3{
 	line-height: 3px;
 	font-weight: bold;
 	font-variant: small-caps;
-	margin-top: 10px;
+	margin-top: 50px;
 }
 .nav-link{
 		text-decoration: none;
@@ -121,6 +121,10 @@ h3{
 	width: 33.33%;
 	padding: 1em;
 	text-align: center;
+}
+
+.col img{
+    margin-right: 10px;
 }
 
 
