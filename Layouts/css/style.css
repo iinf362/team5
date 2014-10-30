@@ -48,10 +48,11 @@ h3{
 }
 .nav-link{
 		text-decoration: none;
-		padding: 0.5em 1.0em;
+		padding: 0.5em 0.8em;
 		border-radius: 1.25em;
 		background-color: #ddd;
 		color: #333;
+		font-size: 0.9em;
 }
 .nav-link:hover{
 	background-color: grey;
@@ -73,6 +74,10 @@ h3{
 }
 
 .left-header{
+	float: left;
+}
+
+.site-title-container img{
 	float: left;
 }
 
