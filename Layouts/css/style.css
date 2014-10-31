@@ -45,6 +45,7 @@ h3{
 	font-weight: bold;
 	font-variant: small-caps;
 	margin-top: 50px;
+	border: 1px solid #CCC;
 }
 .nav-link{
 		text-decoration: none;
@@ -60,7 +61,7 @@ h3{
 
 .site-title {
 	text-align: right;
-	font-size: 1.65em;
+	font-size: 1.45em;
 	font-weight: bold;
 	font-variant: small-caps;
 	text-decoration: none;
@@ -68,16 +69,42 @@ h3{
 }
 
 .site-title-container{
-	float: right;
+	float: left;
 	padding-top: 10px;
 	padding-left: 10px;
+}
+
+.title-breaker{
+	display: block;
+}
+
+@media(min-width: 510px){
+	.site-title-container{
+		float: right;
+	}
+
+	.title-breaker{
+		display: none;
+	}
+
+	.site-title{
+		font-size: 1.65em;
+	}
+}
+
+@media(max-width: 375px){
+	.site-title{
+		font-size: 1.25em;
+	}
 }
 
 .left-header{
 	float: left;
 }
 
-.site-title-container img{
+
+
+.left-header img{
 	float: left;
 }
 
@@ -108,6 +135,7 @@ h3{
 .team-img{
 	max-width: 100%;
 }
+
 @media(min-width: 510px){
 	.title-sub{
 		display: block;
@@ -187,10 +215,43 @@ h3{
 	text-align: center;
 }
 
+@media(max-width: 510px){
+	.col{
+		width: 100%;
+	}
+
+	.col p{
+		text-align: justify;
+	}
+}
+
 .col img{
     margin-right: 10px;
 }
 
+.col-main{
+	float: left;
+}
+
+.col-sidebar{
+	width: 30%;
+	float: right;
+	border: 1px dashed;
+}
+
+.sidebar-title{
+	text-align: center;
+}
+
+@media(max-width: 870px){
+	.col-sidebar{
+		width: 100%;
+	}
+
+	.col-main{
+		width: 100%;
+	}
+}
 
 /**Utilities**/
 
