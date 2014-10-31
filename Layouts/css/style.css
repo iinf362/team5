@@ -158,6 +158,19 @@ h3{
 	padding-right: 2.3em;
 }
 
+@media(max-width: 450px){
+	.header-nav{
+		padding: 0;
+	}
+}
+
+@media(max-width: 375px){
+	.nav-link{
+		font-size: 0.8em;
+		padding: 0.5em;
+	}
+}
+
 .header-nav li {
 	display: inline-block;
 }
