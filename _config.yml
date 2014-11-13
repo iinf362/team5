@@ -1,0 +1,11 @@
+# Site settings
+title: Tenants Rights
+subtitle: Helping you rent easier...
+email: 
+description:
+url:
+github_username:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
