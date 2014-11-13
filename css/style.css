@@ -148,7 +148,7 @@ h3{
 .container{
 	max-width: 1000px;
 	margin: 0 auto;
-	padding: 10px 0;
+	padding: 0 10px;
 }
 
 .hero-img{
