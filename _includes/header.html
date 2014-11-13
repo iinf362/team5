@@ -1,7 +1,7 @@
 <header class="site-header cf">
     <div class="container">
         <div class="left-header cf"> 
-            <img src="{{ site.url }}img/header_icon.png" alt="Site Icon" />
+            <img src="{{ site.url }}/img/header_icon.png" alt="Site Icon" />
             <div class="site-title-container">
                 <a href="front-page.html" class="site-title">{{ site.title }}</a>
                 <div class="title-sub">{{ site.subtitle }}</div>
@@ -13,7 +13,9 @@
                {% for nav in site.pages %}
                   {% if nav.title %}
                     <li>
-                        <a class="nav-link{% if nav.title == page.title %} active{% endif %}" href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</a>
+                        <a class="nav-link{% if nav.title == page.title %} active{% endif %}" href="{{ site.url }}{{ nav.url }}">
+                            {{ nav.title }}
+                        </a>
                     </li>
                   {% endif %}
                 {% endfor %}
