@@ -6,10 +6,6 @@ description:
 url: http://iinf362.github.io/team5/
 github_username:
 
-menu:
-	- news: front-page.html
-	- documents: default-page.html
-
 # Build settings
 markdown: kramdown
 permalink: pretty
