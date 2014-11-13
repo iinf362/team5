@@ -7,8 +7,8 @@ url: http://iinf362.github.io/team5/
 github_username:
 
 menu:
-	News: front-page.html
-	Documents: default-page.html
+	- News: front-page.html
+	- Documents: default-page.html
 
 # Build settings
 markdown: kramdown
