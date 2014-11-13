@@ -76,10 +76,6 @@ h3{
 }
 
 @media(min-width: 510px){
-	.site-title-container{
-		float: right;
-	}
-
 	.title-breaker{
 		display: none;
 	}
