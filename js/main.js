@@ -2,7 +2,7 @@
 $('#btn-menu').click(function(){
 	$('.nav-main').slideToggle();
 });
-/*//panel1
+//panel1
 $("#panel1").click(function(){
   $("#panelC1").toggle(1000);
 });
@@ -14,11 +14,7 @@ $("#panel2").click(function(){
 $("#panel3").click(function(){
   $("#panelC3").toggle(1000);
 });
-*/
 
-$('.panel-title').click(function(){
-	$(this).next().toggle(1000);
-})
- $(document).ready(function(){
+$(document).ready(function(){
     $(".nav-internal").sticky({topSpacing:5});
   });
