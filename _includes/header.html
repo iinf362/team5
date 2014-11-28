@@ -11,12 +11,7 @@
         <nav class="nav-bar">
             <ul class="header-nav">
                {% for post in site.posts %}
-                  {% if nav.title %}
-                    <li>
-                        <a class="nav-link{% if nav.title == post.title %} active{% endif %}" href="{{ site.url }}{{ nav.url }}">
-                            {{ nav.title }}
-                        </a>
-                    </li>
+                  <a href="{{post.url}}">{{post.title}}</a>
                   {% endif %}
                 {% endfor %}
             </ul>    
