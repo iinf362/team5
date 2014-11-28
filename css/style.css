@@ -247,6 +247,32 @@ h3{
 	}
 }
 
+/**Panels**/
+.panels {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.panel {
+  margin-bottom: 1em;
+  background: white;
+}
+
+.panel-title {
+  font-weight: bold;
+  background: #2c3e50;
+  color: white;
+  padding: 0.5em 1em;
+  cursor: pointer;
+}
+.panel-title:hover {
+  background: #34495e;
+}
+.panel-content {
+  padding: 1em;
+  display: none;
+}
+
+
 /**Utilities**/
 
 /**
