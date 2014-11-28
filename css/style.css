@@ -203,7 +203,7 @@ h3{
 /**Columns**/
 
 .col{
-	float: center;
+	float: left;
 	width: 50.00%;
 	padding: 1em;
 	text-align: center;
