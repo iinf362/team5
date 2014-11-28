@@ -265,7 +265,7 @@ h3{
   cursor: pointer;
 }
 .panel-title:hover {
-  background: #34495e;
+  background: #333;
 }
 .panel-content {
   padding: 1em;
