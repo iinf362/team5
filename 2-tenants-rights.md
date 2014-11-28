@@ -1,3 +1,8 @@
+---
+layout: basic
+title: ZXC
+---
+
 # Tenants' rights once in an apartment
 
 When a tenant and landlord agree to rent an apartment or home, that agreement is called a lease. Any agreement to rent out an apartment or home is considered a lease, and the lease does not have to be in writing. A tenant and landlord can simply make an oral agreement to rent out an apartment, and that agreement is called an oral lease. This section describes the basics about leases, and explains how the law interacts with the landlord-tenant relationship as reflected in the lease. Sometimes, the law requires the landlord to provide protections to tenants regardless of the agreement the tenant and landlord reach. In addition, sometimes the law forbids the landlord to impose certain requirements on tenants through the lease: in other words, it prohibits certain lease terms. This section will describe the law governing leases in New York State.
