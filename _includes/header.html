@@ -10,7 +10,7 @@
 
         <nav class="nav-bar">
             <ul class="header-nav">
-               {% for nav in site.pages %}
+               {% for nav in site.posts %}
                   {% if nav.title %}
                     <li>
                         <a class="nav-link{% if nav.title == page.title %} active{% endif %}" href="{{ site.url }}{{ nav.url }}">
