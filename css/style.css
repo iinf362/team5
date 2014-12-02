@@ -294,8 +294,11 @@ p.welcome-text{
 	padding: 5px;
 }
 
-.section-title, p.section-description{
+.section-text{
 	text-align: center;
+}
+
+.section-title, p.section-description{
 	text-indent: 0;
 }
 
@@ -315,6 +318,10 @@ p.welcome-text{
 	.section-img{
 		float: left;
 		max-width: 180px;
+	}
+	
+	.section-text{
+		text-align: left;
 	}
 }	
 
