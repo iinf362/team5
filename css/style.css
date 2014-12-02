@@ -302,3 +302,11 @@ h3{
 .cf {
 	*zoom: 1;
 }
+
+.welcome-text{
+	text-align: center;
+}
+
+.welcome-title{
+	text-align: center;
+}
