@@ -296,7 +296,7 @@ p.welcome-text, .welcome-title{
 }
 
 .section-img{
-	max-width: 250px;
+	max-width: 220px;
 }
 
 .index-columns{
@@ -318,10 +318,10 @@ p.welcome-text, .welcome-title{
 		float: right;
 	}
 	
-	.section-title, p.section-description{
+	.section-title, p.section-description, .section-text{
 		text-align: left;
 	}
-}	
+}
 
 /**Utilities**/
 
