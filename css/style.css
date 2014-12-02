@@ -267,12 +267,22 @@ h3{
   padding: 0.5em 1em;
   cursor: pointer;
 }
+
 .panel-title:hover {
   background: #333;
 }
+
 .panel-content {
   padding: 1em;
   display: none;
+}
+
+.welcome-text{
+	text-align: center;
+}
+
+.welcome-title{
+	text-align: center;
 }
 
 
@@ -301,12 +311,4 @@ h3{
 */
 .cf {
 	*zoom: 1;
-}
-
-.welcome-text{
-	text-align: center;
-}
-
-.welcome-title{
-	text-align: center;
 }
