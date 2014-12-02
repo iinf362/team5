@@ -301,6 +301,7 @@ p.welcome-text{
 
 .section-title, p.section-description{
 	text-align: center;
+	text-indent: 0;
 }
 
 .index-columns{
