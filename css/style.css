@@ -310,18 +310,21 @@ p.welcome-text, .welcome-title{
 	
 	.section-image{
 		float: left;
-		width: 25%;
+		width: 30%;
 	}
 	
 	.section-text{
-		width: 75%;
+		width: 70%;
 		float: right;
+		padding-left: 5px;
 	}
 	
 	.section-title, p.section-description, .section-text{
 		text-align: left;
 	}
 }
+
+@media(max-width:810px)
 
 /**Utilities**/
 
