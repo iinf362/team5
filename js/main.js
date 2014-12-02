@@ -36,6 +36,22 @@ $("#panel8").click(function(){
   $("#panelC8").toggle(1000);
 });
 
+//panel9
+$("#panel9").click(function(){
+  $("#panelC9").toggle(1000);
+});
+
+//panel10
+$("#panel10").click(function(){
+  $("#panelC10").toggle(1000);
+});
+
+//panel8
+$("#panel11").click(function(){
+  $("#panelC11").toggle(1000);
+});
+
+
 
 $(document).ready(function(){
     $(".nav-internal").sticky({topSpacing:5});
