@@ -330,6 +330,21 @@ p.welcome-text, .welcome-title{
 	}
 }
 
+@media(max-width: 645px){
+	.section-image{
+		width: 100%;
+	}
+	
+	.section-title, p.section-description, .section-text{
+		text-align: center;
+	}
+	
+	.section-text{
+		width: 70%;
+		padding-left: 0;
+	}
+}
+
 /**Utilities**/
 
 /**
