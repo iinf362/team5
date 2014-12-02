@@ -294,11 +294,6 @@ p.welcome-text{
 	padding: 5px;
 }
 
-
-.col-30:last-child{
-	float: right;
-}
-
 .section-title, p.section-description{
 	text-align: center;
 	text-indent: 0;
