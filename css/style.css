@@ -310,11 +310,11 @@ p.welcome-text, .welcome-title{
 	
 	.section-image{
 		float: left;
-		width: 40%;
+		width: 25%;
 	}
 	
 	.section-text{
-		width: 60%;
+		width: 75%;
 		float: right;
 	}
 	
