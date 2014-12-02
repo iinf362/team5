@@ -288,9 +288,12 @@ p.welcome-text{
 }
 
 .col-30{
-	width: 30%;
+	width: 32%;
 	float: left;
+	text-align: center;
+	padding: 5px;
 }
+
 
 .col-30:last-child{
 	float: right;
