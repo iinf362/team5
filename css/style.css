@@ -340,7 +340,7 @@ p.welcome-text, .welcome-title{
 	}
 	
 	.section-text{
-		width: 70%;
+		width: 100%;
 		padding-left: 0;
 	}
 }
