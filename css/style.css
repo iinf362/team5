@@ -325,7 +325,9 @@ p.welcome-text, .welcome-title{
 }
 
 @media(max-width:770px){
-	
+	.section-img{
+		max-width: 180px;
+	}
 }
 
 /**Utilities**/
