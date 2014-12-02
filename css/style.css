@@ -308,14 +308,18 @@ p.welcome-text, .welcome-title{
 		width: 100%;
 	}	
 	
-	.section-img{
+	.section-image{
 		float: left;
-		max-width: 180px;
+		width: 40%;
 	}
 	
 	.section-text{
-		text-align: left;
+		width: 60%;
 		float: right;
+	}
+	
+	.section-title, p.section-description{
+		text-align: left;
 	}
 }	
 
