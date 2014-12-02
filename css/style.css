@@ -322,6 +322,7 @@ p.welcome-text{
 	
 	.section-text{
 		text-align: left;
+		float: right;
 	}
 }	
 
