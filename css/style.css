@@ -296,6 +296,10 @@ p.welcome-text{
 	float: right;
 }
 
+.section-title, .section-description{
+	text-align: center;
+}
+
 /**Utilities**/
 
 /**
