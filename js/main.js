@@ -31,6 +31,11 @@ $("#panel6").click(function(){
 $("#panel7").click(function(){
   $("#panelC7").toggle(1000);
 });
+//panel8
+$("#panel8").click(function(){
+  $("#panelC8").toggle(1000);
+});
+
 
 $(document).ready(function(){
     $(".nav-internal").sticky({topSpacing:5});
