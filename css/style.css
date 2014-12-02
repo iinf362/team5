@@ -303,6 +303,10 @@ p.welcome-text{
 	text-align: center;
 }
 
+.index-columns{
+	margin-bottom: 30px;
+}
+
 /**Utilities**/
 
 /**
