@@ -277,13 +277,7 @@ h3{
   display: none;
 }
 
-p.welcome-text{
-	text-align: center;
-	max-width: 100%;
-}
-
-.welcome-title{
-	text-align: center;
+p.welcome-text, .welcome-title{
 	max-width: 100%;
 }
 
