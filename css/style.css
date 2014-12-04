@@ -265,6 +265,7 @@ h3{
   padding: 0.5em 1em;
   cursor: pointer;
   margin-bottom: 0.25em;
+  border-radius: 0.5em;
 }
 
 .panel-title:hover {
