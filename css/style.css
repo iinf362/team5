@@ -301,8 +301,8 @@ p.welcome-text, .welcome-title{
 	padding: 5px;
 	border: 2px solid #870126;
 	background-color: lightgrey;
-	border-radius: 25px
-	margin-right: 10px
+	border-radius: 25px;
+	margin-right: 10px;
 }
 
 .section-title, p.section-description{
