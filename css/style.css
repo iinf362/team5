@@ -288,8 +288,9 @@ p.welcome-text, .welcome-title{
 	float: left;
 	text-align: center;
 	padding: 5px;
-	border: 2px solid navy;
+	border: 2px #870126;
 	background-color: lightgrey;
+	border-radius: 25px
 }
 
 .section-title, p.section-description{
