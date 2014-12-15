@@ -201,6 +201,17 @@ h3{
 .img-team{
 	float: left;
 }
+/*menu buttons*/
+
+
+
+
+
+
+
+
+
+
 /**Columns**/
 
 .col{
@@ -291,6 +302,7 @@ p.welcome-text, .welcome-title{
 	border: 2px solid #870126;
 	background-color: lightgrey;
 	border-radius: 25px
+	margin-right: 10px
 }
 
 .section-title, p.section-description{
