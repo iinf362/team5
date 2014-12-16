@@ -56,6 +56,11 @@ h3{
 	background-color: grey;
 }
 
+@media(max-width: 650px){
+    .nav-link{
+    display: block}
+    }
+
 .site-title {
 	text-align: right;
 	font-size: 1.45em;
