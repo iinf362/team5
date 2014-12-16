@@ -205,14 +205,14 @@ h3{
 	float: left;
 }
 
-@media (max-width: 480px){
-  .nav li {
+@media (max-width: 750px){
+  .nav-main {
     display: block;
   }
   .nav-main {display: none;}
   .nav-internal {display: none;}
 }
-@media (min-width: 480px){
+@media (min-width: 750px){
   button {display: none;}
 } 
 
