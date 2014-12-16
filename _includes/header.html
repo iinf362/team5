@@ -9,6 +9,7 @@
         </div>    
 
         <nav class="nav-bar">
+            <button id="btn-menu"><img src="http://appendto.com/wp-content/uploads/2014/01/heart@2x.png"></button>
             <ul class="header-nav">
                {% for nav in site.pages %}
                   {% if nav.title and nav.title != 'Home' %}
@@ -21,15 +22,5 @@
                 {% endfor %}
             </ul>    
         </nav>
-        <!--
-            <nav class="nav-bar">
-                <ul class="header-nav">
-                    <li><a class="nav-link" href="front-page.html">News</a></li>
-                    <li><a class="nav-link" href="default-page.html">Documents</a></li>
-                    <li><a class="nav-link" href="default-page.html">Your Rights</a></li>
-                    <li><a class="nav-link" href="custom-page.html">Contact Us</a></li>
-                </ul>    
-            </nav>
-        -->    
     </div>
 </header>
