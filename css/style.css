@@ -208,12 +208,16 @@ h3{
 @media (max-width: 750px){
   .header-nav li{
   	display: block;
+  	margin: 1em;
   }
-  .nav-main {display: none;}
+  .nav-main {
+  	display: none;
+  }
   .header-nav {display: none;}
 }
 @media (min-width: 750px){
   button {display: none;}
+
 } 
 
 /**Columns**/
