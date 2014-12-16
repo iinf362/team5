@@ -56,10 +56,7 @@ h3{
 	background-color: grey;
 }
 
-@media(max-width: 650px){
-    .nav-link{
-    display: block}
-    }
+
 
 .site-title {
 	text-align: right;
@@ -189,6 +186,7 @@ h3{
 @media(max-width: 450px){
 	.header-nav{
 		padding: 0;
+		
 	}
 }
 
