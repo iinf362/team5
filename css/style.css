@@ -206,11 +206,11 @@ h3{
 }
 
 @media (max-width: 750px){
-  .nav-main {
-    display: block;
+  .header-nav li{
+  	display: block;
   }
   .nav-main {display: none;}
-  .nav-internal {display: none;}
+  .header-nav {display: none;}
 }
 @media (min-width: 750px){
   button {display: none;}
