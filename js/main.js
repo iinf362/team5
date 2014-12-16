@@ -1,6 +1,6 @@
 //mobile nav
 $('#btn-menu').click(function(){
-	$('.nav-main').slideToggle();
+	$('.header-nav').slideToggle();
 });
 //panel1
 $("#panel1").click(function(){
